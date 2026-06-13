@@ -18,6 +18,9 @@ export default function TopBar({maxp,crntp}) {
                 {crntp}
             </div>
         </div>
+        <div className="blackbox">
+            
+        </div>
     </>
     );
 }
