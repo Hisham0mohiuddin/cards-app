@@ -7,3 +7,7 @@
     background-color:bisque;
     border-radius:1rem;
 }
+.card-holder:hover {
+    transform: translateY(-6px) scale(1.03);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  }
